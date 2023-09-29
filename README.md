@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Code.Rajiv</h1>
 <h3 align="center">I Am Full Stack Developer from India</h3>
-<img align=right" alt="coding" width="400"src="![image](https://github.com/CodeRajiv2002/CodeRajiv2002/assets/146028446/34f690f7-8e25-4b3b-9e3c-2adfd973b4e1)>
 
+<img align=right" alt="coding" width="400"src="![image](https://github.com/CodeRajiv2002/CodeRajiv2002/assets/146028446/e4ee1b9b-565f-4667-83da-bad7b9578113)
+>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderajiv2002&label=Profile%20views&color=0e75b6&style=flat" alt="coderajiv2002" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Developer**
