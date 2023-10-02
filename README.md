@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Code.Rajiv</h1>
 <h3 align="center">I Am Full Stack Developer from India</h3>
+<img src="![image](https://github.com/CodeRajiv2002/CodeRajiv2002/assets/146028446/900c8ba1-4988-47b7-88b1-8616b0f9ca1d)
+">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderajiv2002&label=Profile%20views&color=0e75b6&style=flat" alt="coderajiv2002" /> </p>
 
